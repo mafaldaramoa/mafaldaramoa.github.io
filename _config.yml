@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mafalda Ramôa Alves"
-  avatar           : "profile.png"
-  bio              : "PhD student working in quantum computing"
+  avatar           : "profile.jpg"
+  bio              : "PhD student at University of Minho, working in the field of quantum computing"
   location         : "Braga"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
