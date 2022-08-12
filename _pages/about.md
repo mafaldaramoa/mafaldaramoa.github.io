@@ -8,17 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at <a href="https://www.uminho.pt/EN">University of Minho</a>, supervised by <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is on the field of quantum computing, with a focus on studying, implementing and developing NISQ-friendly algorithms for optimization. The areas of application I am the most interested in are combinatorial optimization and quantum chemistry. 
+<p align="justify">
+  I am a PhD student at <a href="https://www.uminho.pt/EN">University of Minho</a>, supervised by <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is on the field of quantum computing, with a focus on studying, implementing and developing NISQ-friendly algorithms for optimization. The areas of application I am the most interested in are combinatorial optimization and quantum chemistry. 
+</p>
 
-I finished an integrated MSc in Physics Engineering in 2021. Throughout the course I garnered solid skills in physics, informatics, maths and electronics. In the Master's degree I specialized in quantum information and quantum computing. For more details I refer to <a href="https://mafaldara.github.io/cv/">my CV</a>.
+<p align="justify">
+  I finished an integrated MSc in Physics Engineering in 2021. Throughout the course I garnered solid skills in physics, informatics, maths and electronics. In the Master's degree I specialized in quantum information and quantum computing. For more details I refer to <a href="https://mafaldara.github.io/cv/">my CV</a>.
+</p>
 
-I belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal.
+<p align="justify">
+  I belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal.
+</p>
 
-I am also affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
+<p align="justify">
+  I am also affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
+</p>
 
-Research Interests
-======
-Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics
+  Research Interests
+  ======
+  *Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics*
+
 
 <!---
 A data-driven personal website
