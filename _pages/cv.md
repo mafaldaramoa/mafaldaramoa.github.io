@@ -53,7 +53,7 @@ Skills
 
 Distinctions
 ======
-* Excellence Scholarship Prize (University of Minho) in the 2<sup>nd</sup>, 4<sup>nd</sup>, 5<sup>nd</sup> years of the Integrated Master's degree in Physics Engineering
+* Excellence Scholarship Prize (University of Minho) in the 2<sup>nd</sup>, 4<sup>th</sup>, 5<sup>th</sup> years of the Integrated Master's degree in Physics Engineering
 * Scholarship ”New Talents in antum Technologies” (Gulbenkian Foundation) in 2020/21
 
 <!---
