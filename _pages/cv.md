@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Integrated MSc in Physics Engineering, University of Minho, 2021
-* Ph.D in Informatics, University of Minho, 2026 (expected)
+* PhD in Informatics, University of Minho, 2026 (expected)
 
 Projects
 ======
