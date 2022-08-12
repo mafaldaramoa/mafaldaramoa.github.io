@@ -56,24 +56,27 @@ Distinctions
 * Excellence Scholarship Prize (University of Minho) in the 2<sup>nd</sup>, 4<sup>nd</sup>, 5<sup>nd</sup> years of the Integrated Master's degree in Physics Engineering
 * Scholarship ”New Talents in antum Technologies” (Gulbenkian Foundation) in 2020/21
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!---
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
+--->
