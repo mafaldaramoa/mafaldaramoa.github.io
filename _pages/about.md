@@ -24,9 +24,9 @@ redirect_from:
   I am also affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
 </p>
 
-  Research Interests
-  ======
-  *Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics*
+Research Interests
+======
+*Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics*
 
 
 <!---
