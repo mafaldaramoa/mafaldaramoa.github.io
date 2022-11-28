@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mafalda Ramoa"
+title                    : "Mafalda Ramôa"
 title_separator          : "-"
-name                     : &name "Mafalda Ramoa"
+name                     : &name "Mafalda Ramôa"
 description              : &description "PhD Student"
 url                      : https://mafaldaramoa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
