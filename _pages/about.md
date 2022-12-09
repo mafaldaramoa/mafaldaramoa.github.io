@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 <p align="justify">
-  I finished an Integrated Master’s degree in Engineering Physics in 2021. Throughout the course I garnered solid skills in physics, informatics, maths and electronics. In the Master's degree I specialized in quantum information and quantum computing. For more details I refer to <a href="https://mafaldara.github.io/cv/">my CV</a>.
+  I finished an Integrated Master’s degree in Engineering Physics in 2021. Throughout the course I garnered solid skills in physics, informatics, maths and electronics. In the Master's degree I specialized in quantum information and quantum computing. You can find my Master Thesis, titled Ansätze for Noisy Variational Quantum Eigensolvers, <a href="https://arxiv.org/abs/2212.04323">here</a>. For more details I refer to <a href="https://mafaldara.github.io/cv/">my CV</a>.
 </p>
 
 <p align="justify">
