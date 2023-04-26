@@ -19,7 +19,7 @@ Projects
 * MSc Thesis: <a href="https://arxiv.org/abs/2212.04323">Ansätze for Noisy Variational Quantum Eigensolvers</a>
   * Supervisors: Raffaele Santagati, Ernesto Galvão, Mikhail Vasilevskiy
   * Description: Studied and implemented multiple variational quantum algorithms for quantum chemistry (electronic structure problem), with a focus on ADAPT-VQE (multiple variants). Ran these algorithms in real devices and via simulation, and studied their noise-resilicence properties using Qiskit's noise module.
-* PhD Dissertation: Quantum Algorithms for Optimization in the NISQ Context (ongoing)
+* PhD Dissertation: On the Quest for Shallow, Accurate, and Cost-Efficient Ansätze for Variational Quantum Algorithms (ongoing)
   * Supervisors: Luís Paulo Santos, Ernesto Galvão
   * Goals: Studying and developing new NISQ-friendly algorithms for optimization tasks, for quantum chemistry and classical combinatorial optimization problems.
 
