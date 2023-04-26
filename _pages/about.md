@@ -28,6 +28,9 @@ Research Interests
 ======
 *Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics*
 
+Here is a video where I explain some of my research interests to a general scientific audience in 2.5 minutes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kAkdbk-e7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---
 A data-driven personal website
