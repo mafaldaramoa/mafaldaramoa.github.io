@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="justify">
-  I am a PhD student at <a href="https://www.uminho.pt/EN">University of Minho</a>, supervised by <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is on the field of quantum computing, with a focus on studying, implementing and developing NISQ-friendly algorithms for optimization. The areas of application I am the most interested in are combinatorial optimization and quantum chemistry. 
+  I am a PhD student at <a href="https://www.uminho.pt/EN">University of Minho</a>, supervised by <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is on the field of quantum computing, with a focus on studying, implementing and developing NISQ-friendly variational quantum algorithms. I am particularly interested in adaptive ansätze for areas of application such as combinatorial optimization and quantum chemistry. 
 </p>
 
 <p align="justify">
