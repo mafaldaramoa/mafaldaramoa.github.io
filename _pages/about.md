@@ -9,28 +9,16 @@ redirect_from:
 ---
 
 <p align="justify">
-  I am a PhD student at <a href="https://www.uminho.pt/EN">University of Minho</a>, supervised by <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is on the field of quantum computing, with a focus on studying, implementing and developing NISQ-friendly variational quantum algorithms. I am particularly interested in adaptive ansätze for areas of application such as combinatorial optimization and quantum chemistry. 
+  I am a PhD student supervised by <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia Economou</a>, <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is in the field of quantum computing, with a focus on studying, implementing, and developing NISQ-friendly variational quantum algorithms. I am particularly interested in adaptive ansätze for quantum chemistry and other applications.
 </p>
 
 <p align="justify">
-  I finished an Integrated Master’s degree in Engineering Physics in 2021. Throughout the course I garnered solid skills in physics, informatics, maths and electronics. In the Master's degree I specialized in quantum information and quantum computing. You can find my Master Thesis, titled Ansätze for Noisy Variational Quantum Eigensolvers, <a href="https://arxiv.org/abs/2212.04323">here</a>. For more details I refer to <a href="https://mafaldara.github.io/cv/">my CV</a>.
+  I finished an Integrated Master’s degree in Engineering Physics in 2021, specializing in quantum information and quantum computing. You can find my MSc Thesis, titled Ansätze for Noisy Variational Quantum Eigensolvers, <a href="https://arxiv.org/abs/2212.04323">here</a>.
 </p>
 
 <p align="justify">
-  I belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal.
+  While currently at Virginia Tech, I also belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal. I am additionally affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
 </p>
-
-<p align="justify">
-  I am also affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
-</p>
-
-Research Interests
-======
-*Quantum computing, variational quantum algorithms, quantum chemistry, combinatorial optimization, computational physics*
-
-Here is a video where I explain some of my research interests to a general scientific audience in 2.5 minutes:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5kAkdbk-e7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---
 A data-driven personal website
