@@ -20,6 +20,10 @@ redirect_from:
   While currently at Virginia Tech, I also belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal. I am additionally affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
 </p>
 
+<p align="justify">
+For more details, I refer to my <a href="/files/CV.pdf">CV</a>.
+</p>
+
 <!---
 A data-driven personal website
 ======
