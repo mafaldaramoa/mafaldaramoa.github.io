@@ -9,15 +9,19 @@ redirect_from:
 ---
 
 <p align="justify">
-  I am a PhD student supervised by <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia Economou</a>, <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a> and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. My current research is in the field of quantum computing, with a focus on studying, implementing, and developing NISQ-friendly variational quantum algorithms. I am particularly interested in adaptive ansätze for quantum chemistry and other applications.
+I am a postdoctoral associate in the group of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a> and <a href="https://www.phys.vt.edu/About/people/Faculty/edwin-barnes.html">Edwin Barnes</a> at <a href="https://vtq.vt.edu/index.html">Virginia Tech</a>. Some of my interests include quantum algorithms, classical and quantum simulation of quantum systems, adaptive variational state preparation protocols, and measurement-based quantum computing. 
+</p>
+  
+<p align="justify">
+I did my PhD under the supervision of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a>, <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a>, and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. The focus of my thesis was on studying, implementing, and developing NISQ-friendly variational quantum algorithms, particularly adaptive ansätze for quantum chemistry and other applications.  
+</p>
+  
+<p align="justify">
+During my PhD, I was based at Virginia Tech, where I worked as a research assistant. I additionally had remote affiliations with the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> and the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>. I successfully defended my PhD at the University of Minho in May 2026.
 </p>
 
 <p align="justify">
-  I finished an Integrated Master’s degree in Engineering Physics in 2021, specializing in quantum information and quantum computing. You can find my MSc Thesis, titled Ansätze for Noisy Variational Quantum Eigensolvers, <a href="https://arxiv.org/abs/2212.04323">here</a>.
-</p>
-
-<p align="justify">
-  While currently at Virginia Tech, I also belong to the <a href="https://inl.int/quantum-and-linear-optical-computation/">Quantum and Linear-Optical Computation (QLOC)</a> research group at the <a href="https://inl.int/">International Iberian Nanotechnology Laboratory (INL)</a> in Braga, Portugal. I am additionally affiliated with the <a href="https://www.inesctec.pt/en/centres/haslab"> High-Assurance Software Laboratory (HASLab)</a>, a R&D centre of the <a href="https://www.inesctec.pt/en">Institute for Systems and Computer Engineering, Technology and Science (INESC TEC)</a>.
+Before my PhD I completed an Integrated Master’s degree in Engineering Physics in 2021, specializing in quantum information and quantum computing. You can find my MSc Thesis, titled Ansätze for Noisy Variational Quantum Eigensolvers, <a href="https://arxiv.org/abs/2212.04323">here</a>.
 </p>
 
 <p align="justify">
