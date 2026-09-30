@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a postdoctoral associate in the group of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a> and <a href="https://www.phys.vt.edu/About/people/Faculty/edwin-barnes.html">Edwin Barnes</a> at <a href="https://vtq.vt.edu/index.html">Virginia Tech</a>. Some of my interests include quantum algorithms, classical and quantum simulation of quantum systems, adaptive variational state preparation protocols, and measurement-based quantum computing. 
+I am a postdoctoral associate in the group of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a> and <a href="https://www.phys.vt.edu/About/people/Faculty/edwin-barnes.html">Edwin Barnes</a> at <a href="https://vtq.vt.edu/index.html">Virginia Tech</a>. I work on quantum algorithms, including adaptive variational state preparation protocols and quantum simulation. I am also interested in measurement-based quantum computing. 
 </p>
   
 <p align="justify">
-I did my PhD under the supervision of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a>, <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a>, and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. The focus of my thesis was on studying, implementing, and developing NISQ-friendly variational quantum algorithms, particularly adaptive ansätze for quantum chemistry and other applications.  
+I did my PhD under the supervision of <a href="https://www.phys.vt.edu/About/people/Faculty/sophia-economou.html">Sophia E. Economou</a>, <a href="https://www.inesctec.pt/en/people/luis-paulo-santos">Luís P. Santos</a>, and <a href="https://sites.google.com/view/efgalvao/home">Ernesto F. Galvão</a>. The focus of my thesis was on studying, implementing, and developing variational quantum algorithms, particularly adaptive ansätze for quantum chemistry and other applications.  
 </p>
   
 <p align="justify">
